@@ -18,27 +18,27 @@ for the Kimai Remote API. For now its has the following features:
 Its a very lightweight solution made with only one HTML script, a couple of 
 Javascript files and some spicy CSS sugar on top.
 
-Please note, that this is the first release and many features of the 
+Please note, that this is the first (experimental) release and many features of the 
 complete version are missing. We plan to add more features soon, until then
-please share your thoughts and featre requests at [our forum](http://forum.kimai.org)!
+please share your thoughts and feature requests at [our forum](http://forum.kimai.org).
 
 Installation
 ------------
 
-To install this mobile interface, simply copy all the content of this directory
-into your kimai/ directory in a sub-directory called for example "mobile_new".
+To install this mobile interface, just copy all the files of this directory
+into your kimai/ installation in a sub-directory called (for example) "mobile_new".
 Then point your browser to http://yourDomain/kimai/mobile_new/ and log in with your
-normal Kimai account.
+existing Kimai account.
 
 Compatibility
 -------------
 
-This mobile tracking software only works with Kimai revision 1353 and later!
+This mobile time tracking solution only works with Kimai revision 1353 and later.
 
 Contributing
 ------------
 
-We would love to get input from all you talented developer out there:
+We would love to get input from all developer out there:
 
 1. Fork this repository
 2. Create a branch (`git checkout -b my_kimai_mobile`)
