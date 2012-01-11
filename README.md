@@ -1,22 +1,22 @@
 Kimai - jQuery Mobile Interface
 ===============================
 
-This repository keeps a mobile optimized version of Kimai.
+This repository contains an mobile optimized interface of Kimai. 
+Its a small website that lets you start and stop your time record from 
+mobile devices.
 
-Its not only a small interface, that lets you start and stop your time record, 
-but is also a demonstration of the Kimai Remote API (which is available for JSON and SOAP).
+It is built with jQuery Mobile support and works as a developer demonstration
+for the Kimai Remote API. For now its has the following features:
 
-Currently this jQuery mobile powered script can:
-
-* let you log in
+* log in
 * read projects
 * read customers
 * read tasks
 * start the timer
 * stop the timer
 
-It uses the JSON API and is only a bunch of HTML and Javascript files with 
-some CSS sugar on top. 
+Its a very lightweight solution made with only one HTML script, a couple of 
+Javascript files and some spicy CSS sugar on top.
 
 Please note, that this is the first release and many features of the 
 complete version are missing. We plan to add more features soon, until then
