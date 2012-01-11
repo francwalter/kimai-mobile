@@ -7,6 +7,7 @@ Its not only a small interface, that lets you start and stop your time record,
 but is also a demonstration of the Kimai Remote API (which is available for JSON and SOAP).
 
 Currently this jQuery mobile powered script can:
+
 * let you log in
 * read projects
 * read customers
